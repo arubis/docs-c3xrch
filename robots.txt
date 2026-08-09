@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-u58ab4.indocuan-pro.site/sitemap.xml
